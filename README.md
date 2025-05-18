@@ -8,7 +8,7 @@ This repository contains the simulation notebooks and scripts used in my master'
    single neuron simulations: 'psd_single_neuron.ipynb'
    population simulations: 'psd_network.ipynb'
 - Simulation scripts: 'build_simulation.py' and 'build_network.py'
-- Helper functions: 'utilities.py'
+- Helper functions: 'utilities1.py' (Extended after submitting thesis)
 
 ## Notes
 
