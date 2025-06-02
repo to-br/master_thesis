@@ -8,7 +8,7 @@ import os
 import sys
 from scipy.signal import welch
  
-
+"""old version - use utilities1.py"""
 
 def calculate_noise(tau_si, C_m_si, Vm_SD, delta):
     """This function computes and returns the noise level given:
